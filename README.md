@@ -12,4 +12,4 @@ Exception handling:
 
 2)Write a Java program that includes a method divideNumbers(int numerator, int denominator) to perform division. Implement exception handling to catch ArithmeticException if the denominator is zero and display an appropriate error message
 
-datavalley-assessment-codes
+
